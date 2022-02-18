@@ -6,6 +6,10 @@
 
 - Layui 2.6.8
 
+### 截图
+
+[截图示例](./images/demo_datatable.png)
+
 ### 使用说明
 
 ```js
