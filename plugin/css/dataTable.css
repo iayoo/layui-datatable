@@ -1,0 +1,35 @@
+.layui-table-form-filter .layui-form-item {
+    margin-bottom: 2px;
+}
+
+.layui-table-card {
+    height: unset;
+}
+
+.layui-table-form-filter .layui-form-item>.layui-form-pane {
+    width: 690px;
+    margin-right: 0;
+}
+
+.layui-table-form-filter .layui-form-item>.layui-form-pane>.layui-form-item {
+    width: 345px;
+}
+
+.layui-table-form-filter .layui-form-item>.layui-form-pane>.layui-form-item>.layui-input-inline {
+    width: 232px;
+    margin-right: 0;
+}
+
+.layui-table-form-filter .layui-form-item>.layui-input-block {
+    width: 684px;
+    margin-bottom: 5px;
+}
+
+.layui-table-form-filter .layui-form-item>.layui-form-pane>.layui-inline {
+    margin-right: 0;
+}
+
+.layui-table-form-card .layui-card-header {
+    line-height: unset;
+    padding-top: 30px;
+}
