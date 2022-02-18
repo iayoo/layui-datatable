@@ -8,7 +8,7 @@
 
 ### 截图
 
-[截图示例](./images/demo_datatable.png)
+![截图示例](./images/demo_datatable.png)
 
 ### 使用说明
 
